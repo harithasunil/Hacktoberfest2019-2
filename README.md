@@ -73,6 +73,9 @@ Build cross-platform desktop apps with JavaScript, HTML, and CSS. Plenty Resourc
 
 A tribute and log of beloved products and services killed by Google. This is a fun open source project that encourages contributors for Hacktoberfest!
 
+Make sure there are no conflicts 
+
+
 ### 10. [issuehub.io](https://issuehub.io) -
 
 A website which helps you find projects/issues based on your required/preffered language or issue labels.
